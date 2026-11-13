@@ -1,16 +1,23 @@
-## Hi there 👋
+# CluoPrints
+Canadian print-on-demand & design studio based in Quebec — websites, design and digital products for small businesses and creators, fully online.
 
-<!--
-**CluoPrints/CluoPrints** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🤖 AI Business Pack
+A website + AI assistant for small businesses: bilingual website, an AI assistant trained on your business answering customers 24/7, starter product photos, and a professional email on your own domain — **C$699 one-time, then C$120/year all-inclusive**.
+→ https://cluoprints.com/ai-business-pack.html
 
-Here are some ideas to get you started:
+## Services
+- Website packages from C$699 (+ C$120/year care plan)
+- Logo & graphic design from C$35
+- AI product photos from C$39
+- SEO reports from C$50 · Resume & LinkedIn optimization from C$25
+→ https://cluoprints.com/services.html
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Digital products
+Ready-made packs — party games, planners, business templates:
+→ https://payhip.com/CluoPrints
+
+## Free tools
+Free bilingual (EN/FR) web tools for everyday tasks:
+→ https://cluoprints.com/tools.html
+
+Contact: info@cluoprints.com · https://cluoprints.com
